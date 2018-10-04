@@ -13,3 +13,5 @@ https://www.hackster.io/dotMorten/windowsiottouch-44af19
       throw new Exception("User with this PhoneNumber address is exist");
      }
 ```
+## python kivy xpt2046 touch rotate touch problem
+https://stackoverflow.com/questions/29447656/how-do-if-invert-touch-input-in-kivy
